@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.erenakkus.neondash",
+    "sha256_cert_fingerprints": ["E9:D8:3F:DA:B6:1B:C9:85:BB:E3:55:F7:04:1F:A3:21:3C:E6:76:E4:DA:3E:25:2F:47:B8:07:A4:FB:40:75:F3"]
+  }
+}]
